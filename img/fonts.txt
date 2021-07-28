@@ -1,0 +1,13 @@
+1. Inconsolata 400
+2. PlayfairDisplay 400
+3. Ubuntu 300
+minimø
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&family=Playfair+Display&family=Ubuntu:wght@300&display=swap');
+
+
+font-family: 'Inconsolata', monospace;
+font-family: 'Playfair Display', serif;
+font-family: 'Ubuntu', sans-serif;
